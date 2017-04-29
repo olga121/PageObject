@@ -1,0 +1,35 @@
+[
+  {
+    "py/object": "model.new_product.New_product",
+    "name": "",
+    "date_valid_to": "",
+    "date_valid_from": "",
+    "quantity": "",
+    "code": "",
+    "price": "",
+    "keywords": "",
+    "manufacturer": ""
+  },
+  {
+    "py/object": "model.new_product.New_product",
+    "name": "nameLFeCOffAb",
+    "date_valid_to": "date_valid_to -5-  5",
+    "date_valid_from": "date_valid_from33-2 11",
+    "quantity": "quantity 401--",
+    "code": "code-6  2 2",
+    "price": "price",
+    "keywords": "keywords",
+    "manufacturer": "manufacturerTmMLtNREUD"
+  },
+  {
+    "py/object": "model.new_product.New_product",
+    "name": "namega",
+    "date_valid_to": "date_valid_to6--",
+    "date_valid_from": "date_valid_from-2 -4-183315",
+    "quantity": "quantity6 9285-80",
+    "code": "code658",
+    "price": "price09-93-",
+    "keywords": "keywordsLRKxAgaXWvLLxvuHBD",
+    "manufacturer": "manufacturerAFXHlJOOtiLngNYwAaa"
+  }
+]
